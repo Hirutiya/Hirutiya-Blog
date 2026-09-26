@@ -90,7 +90,7 @@
 - [x] **Theme Color Customization** - 360° hue adjustment
 
 
-If you have useful features and optimizations, please submit a [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)
+If you have useful features and optimizations, please submit a [Pull Request](https://github.com/Hirutiya/Hirutiya-Blog/pulls)
 
 ## 🚀 Quick Start
 

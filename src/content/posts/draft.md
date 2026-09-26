@@ -1,8 +1,8 @@
 ---
-title: 草稿示例
-published: 1970-01-01
-tags: [Markdown, 博客, 演示]
-category: 文章示例
+title: Draft Test
+published: 2026-09-26
+tags: []
+category: Test
 draft: true
 slug: draft
 ---
