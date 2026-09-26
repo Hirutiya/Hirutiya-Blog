@@ -17,7 +17,7 @@ link:
     value: "https://github.com/CuteLeaf/Firefly"
   - label: "Documents"
     icon: "material-symbols:menu-book"
-    value: "https://docs-firefly.cuteleaf.cn"
+    value: "https://docs-firefly.cuteleaf.cn/en/"
 ---
 
 
@@ -39,4 +39,4 @@ link:
 - [x] **Wallpaper Mode Switching** - Banner wallpaper, fullscreen wallpaper, fullscreen transparent wallpaper, solid background
 - [x] **Theme Color Customization** - 360° hue adjustment
 
-If you have useful features and optimizations, please submit a [Pull Request](https://github.com/Hirutiya/Hirutiya-Blog/pulls)
+If you have useful features and optimizations, please submit a [Pull Request(Firefly)](https://github.com/CuteLeaf/Firefly/pulls) or [Pull Request(Me)](https://github.com/Hirutiya/Hirutiya-Blog/pulls)
