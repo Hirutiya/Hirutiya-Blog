@@ -20,18 +20,8 @@ export const galleryConfig: GalleryConfig = {
 			name: "Firefly",
 			description: "",
 			location: "Honkai: Star Rail",
-			date: "2026-01-01",
+			date: "2026-09-26",
 			tags: ["Honkai: Star Rail", "Firefly"],
-		},
-		{
-			id: "encrypted-test",
-			name: "Encrypted Photo Album",
-			description:
-				"",
-			location: "Honkai: Star Rail",
-			date: "2026-02-01",
-			tags: ["Encrypted"],
-			password: "Mirror mz",
 		},
 	],
 
