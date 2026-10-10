@@ -12,7 +12,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	mode: "local",
 
 	// 默认音量 (0-1)
-	volume: 0.1,
+	volume: 0.3,
 
 	// 播放模式：'list'=列表循环, 'one'=单曲循环, 'random'=随机播放
 	playMode: "list",
@@ -48,11 +48,10 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "",
-				artist: "",
-				url: "/assets/music/.mp3",
-				cover: "/assets/music/cover/",
-				lrc: "",
+				name: "風待ちハローワールド",
+				artist: "初音未來/add9(ヘリP)",
+				url: "/assets/music/風待ちハローワールド_add9.mp3",
+				cover: "/assets/music/cover/風待ちハローワールド.jpg",
 			},
 		],
 	},

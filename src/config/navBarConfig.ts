@@ -171,7 +171,7 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		pageKey: "guestbook",
 	},
 	Dynamic: {
-		name: "动态",
+		name: "Moments",
 		url: "/dynamic/",
 		icon: "material-symbols:forum-rounded",
 		pageKey: "dynamic",
@@ -189,7 +189,7 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		pageKey: "gallery",
 	},
 	Booknav: {
-		name: "Booknav",
+		name: "Bookmarks",
 		url: "/booknav/",
 		icon: "material-symbols:bookmarks",
 		pageKey: "booknav",

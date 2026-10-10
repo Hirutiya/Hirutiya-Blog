@@ -75,6 +75,13 @@ export const booknavConfig: BooknavGroup[] = [
 		weight: 90,
 		items: [
 			{
+				title: "fuwari",
+				url: "https://github.com/saicaca/fuwari",
+				desc: "A static blog template built with Astro",
+				icon: "/favicon/fuwari-demo-avatar.png",
+				weight: 10,
+			},
+			{
 				title: "Firefly",
 				url: "https://github.com/CuteLeaf/Firefly",
 				desc: "A clear and beautiful Astro personal blog theme template",
@@ -122,22 +129,6 @@ export const booknavConfig: BooknavGroup[] = [
 				url: "https://carbon.now.sh",
 				desc: "Convert code snippets into beautiful images",
 				weight: 8,
-			},
-		],
-	},
-	{
-		id: "resources",
-		name: "Resources",
-		icon: "material-symbols:auto-stories-outline-rounded",
-		desc: "Documentation, tutorials and reading materials",
-		weight: 70,
-		items: [
-			{
-				title: "Firefly Docs",
-				url: "https://docs-firefly.cuteleaf.cn/en/",
-				desc: "Firefly theme template documentation",
-				icon: "https://docs-firefly.cuteleaf.cn/logo.png",
-				weight: 10,
 			},
 		],
 	},

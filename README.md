@@ -1,6 +1,14 @@
 # Hirutiaya Blog
 A Blog built using the Astro framework and the Firefly template
 
+> ![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
+![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D9-blue)
+![Astro](https://img.shields.io/badge/Astro-7-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-6-blue)
+>
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hirutiya)
+>
+
 ## Acknowledgments
 
 Special thanks to [saicaca](https://github.com/saicaca) for developing the [fuwari](https://github.com/saicaca/fuwari) template, which [Firefly](https://github.com/CuteLeaf/Firefly) is based on for secondary development.
@@ -25,7 +33,7 @@ Originally forked from [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly). 
 
 Under the MIT license, you are free to use, modify, and distribute the code, but you must retain the above copyright notice.
 
-## 🍀 Contributors
+## Contributors
 
 Thanks to the following contributors for their contributions to the Firefly project. If you have any questions or suggestions to the Firefly project, please submit an [Issue](https://github.com/CuteLeaf/Firefly/issues) or [Pull Request](https://github.com/CuteLeaf/Firefly/pulls).
 

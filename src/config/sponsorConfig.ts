@@ -22,7 +22,22 @@ export const sponsorConfig: SponsorConfig = {
 
 	// 打赏方式列表
 	methods: [
-		
+		{
+			name: "PayPal",
+			icon: "fa7-brands:paypal",
+			qrCode: "/assets/images/sponsor/paypal.png",
+			link: "",
+			description: "Support me via PayPal",
+			enabled: true,
+		},
+		{
+			name: "ko-fi",
+			icon: "simple-icons:kofi",
+			qrCode: "",
+			link: "https://ko-fi.com/hirutiya",
+			description: "Buy a Coffee for Hirutiya",
+			enabled: true,
+		},
 	],
 
 	// 打赏者列表（可选）

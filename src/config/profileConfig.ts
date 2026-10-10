@@ -6,7 +6,7 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "assets/images/avatar.avif",
+	avatar: "assets/images/avatar.jpg",
 
 	// 名字
 	name: "Hirutiya",
@@ -28,9 +28,33 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "",
+			name: "Youtube",
+			icon: "fa7-brands:youtube",
+			url: "https://www.youtube.com/@Ka_Ze5487",
+			showName: false,
+		},
+		{
+			name: "Bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/382665559",
+			showName: false,
+		},
+		{
+			name: "Twitch",
+			icon: "fa7-brands:twitch",
+			url: "https://www.twitch.tv/kaze87",
+			showName: false,
+		},
+		{
+			name: "osu! Profile",
+			icon: "simple-icons:osu",
+			url: "https://osu.ppy.sh/users/16046503",
+			showName: false,
+		},
+		{
+			name: "Discord Server",
+			icon: "fa7-brands:discord",
+			url: "https://discord.gg/sdjR9WK",
 			showName: false,
 		},
 	],
