@@ -5,8 +5,6 @@ description: "A personal reflection on my all-time favorite song, 'Kazemachi Hel
 tags: [Shares, Music]
 category: Shares
 slug: favorite_song
-series: "My Shares"
-seriesOrder: 1
 ---
 
 # 風待ちハローワールド
