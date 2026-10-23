@@ -6,13 +6,13 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "assets/images/avatar.avif",
+	avatar: "assets/images/avatar.jpg",
 
 	// 名字
-	name: "XiaYe",
+	name: "Hirutiya",
 
 	// 个人签名
-	bio: "Hello, I'm XiaYe.",
+	bio: "Hello, I'm Hirutiya also called KaZe.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,25 +24,37 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/Hirutiya",
 			showName: false,
 		},
 		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			name: "Youtube",
+			icon: "fa7-brands:youtube",
+			url: "https://www.youtube.com/@Ka_Ze5487",
 			showName: false,
 		},
 		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
+			name: "Bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/382665559",
 			showName: false,
 		},
 		{
-			name: "Atom",
-			icon: "fa7-solid:atom",
-			url: "/atom/",
+			name: "Twitch",
+			icon: "fa7-brands:twitch",
+			url: "https://www.twitch.tv/kaze87",
+			showName: false,
+		},
+		{
+			name: "osu! Profile",
+			icon: "simple-icons:osu",
+			url: "https://osu.ppy.sh/users/16046503",
+			showName: false,
+		},
+		{
+			name: "Discord Server",
+			icon: "fa7-brands:discord",
+			url: "https://discord.gg/sdjR9WK",
 			showName: false,
 		},
 	],
